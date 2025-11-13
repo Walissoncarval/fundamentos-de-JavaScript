@@ -1,2 +1,16 @@
-# fundamentos-de-JavaScript
-Este projeto foi desenvolvido como parte do aprendizado dos fundamentos de JavaScript, explorando conceitos essenciais da linguagem de forma prática e interativa. O objetivo é demonstrar o uso de estruturas básicas de programação, como variáveis, operadores, condicionais, laços de repetição e funções,  em um ambiente visual simples e funcional.
+# FlashcardMSB 🎓
+
+**FlashcardMSB** é uma aplicação web interativa criada com **HTML**, **CSS**, **JavaScript** e **Bootstrap**, voltada para o estudo dinâmico de conceitos de programação e tecnologia.
+
+## 🚀 Tecnologias utilizadas
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- Bootstrap 5  
+
+## 💡 Funcionalidades
+- Cards de estudo sobre HTML, CSS e JavaScript  
+- Modal interativo com conteúdo explicativo  
+- Layout responsivo e tema escuro moderno  
+
+## 🖼️ Estrutura do projeto
